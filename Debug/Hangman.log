@@ -1,0 +1,10 @@
+﻿Build started 4/28/2015 2:59:36 AM.
+     1>Project "E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Hangman\Hangman.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Debug\Hangman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Debug\Hangman.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Debug\Hangman.lib" /MACHINE:X86 Debug\iMain.obj
+         Hangman.vcxproj -> E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Debug\Hangman.exe
+     1>Done Building Project "E:\Education\PDF\BUET Level\Level 1 Term 2\CSE-project\Hangman\Hangman\Hangman\Hangman\Hangman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
